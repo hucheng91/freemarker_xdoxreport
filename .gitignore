@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+freemarker_xdocreport.iml
+*.iml
+freemarker_xdocxreport-example/src/test/
+freemarker_xdocxreport-example/target/
+src/
